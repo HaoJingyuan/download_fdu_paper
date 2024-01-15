@@ -24,3 +24,6 @@ How to get paper url?
 - step 1 : Connect to campus network using VPN
 - step 2 : Login "https://thesis.fudan.edu.cn/" and search paper
 - step 3: Right-click to view full text and copy link
+
+## Contributor
+CTY!
